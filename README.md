@@ -14,7 +14,7 @@ This repository contains binaries which are freely available from:
 If I am inadvertently in violation of their license by including them
 here then I will happily remove them.
 
-# Clone or fork this repo (and make it private)
+# Make a private copy
 
 Make a _private_ copy for yourself so you can update the files in
 `secrets/` without giving away your credentials.
@@ -22,8 +22,9 @@ Make a _private_ copy for yourself so you can update the files in
 There's probably a better way to do this but this way is quite
 convenient.
 
-You can also copy your secrets over the top of the templates provided
-immediately prior to building and running the container.
+_An alternative to this is that you can also copy your secrets over the
+top of the templates provided immediately prior to building and running
+the container._
 
 # Install Docker
 
